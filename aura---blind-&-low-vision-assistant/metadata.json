@@ -1,0 +1,9 @@
+
+{
+  "name": "Aura - Blind & Low-Vision Assistant",
+  "description": "An intelligent, human-like assistive AI designed to guide, alert, and assist blind and low-vision users using real-time vision and voice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
